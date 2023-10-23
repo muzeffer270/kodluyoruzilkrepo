@@ -24,12 +24,12 @@ ol{
 
 /* Add this CSS to your stylesheet */
 .image-container {
-    height: 400px; /* Set a fixed height for the container */
-    overflow: hidden; /* Hide overflowing image content */
+    height: 400px; 
+    overflow: hidden; 
 }
 
 .image-container img {
-    object-fit: cover; /* Resize the image to cover the fixed container dimensions */
+    object-fit: cover; 
     width: 100%;
     height: 100%;
 }

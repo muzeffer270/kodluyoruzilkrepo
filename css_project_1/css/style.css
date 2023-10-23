@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&display=swap');
+
+
+body{
+    align-items: center;
+    text-align: center;
+    font-family: 'Playpen Sans', cursive;
+}
+
+
+
+nav a{
+    margin-right:10px;
+    text-decoration: none;
+}
+h1{
+    color:red;
+}
+
+h2{
+    color: purple;
+}
+
+h3{
+    color:orange;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+
+
+.about-details{
+    text-align: left;
+}

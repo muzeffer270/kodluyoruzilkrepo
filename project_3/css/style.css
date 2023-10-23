@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    
+}
+u {
+    color: gold;
+}
+p:nth-child(n){
+    color:black;
+    font-style: italic;
+}

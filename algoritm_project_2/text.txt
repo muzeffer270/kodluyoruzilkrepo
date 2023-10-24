@@ -1,0 +1,18 @@
+Verilen dizi: [16, 21, 11, 8, 12, 22]
+Sıralama türü: Merge Sort
+
+Merge Sort aşamaları:
+
+Adım 1: İlk olarak diziyi ikiye bölelim ve alt dizileri oluşturalım:
+[16, 21, 11] ve [8, 12, 22]
+
+Adım 2: Her iki alt diziyi sıralayalım:
+Sol alt dizi: [11, 16, 21]
+Sağ alt dizi: [8, 12, 22]
+
+Adım 3: Sıralanmış iki alt diziyi birleştirelim:
+[8, 11, 12, 16, 21, 22]
+
+Bu şekilde dizi sıralanmış olur.
+
+Big-O Gösterimi: O(n log n) - Merge Sort'un ortalama ve en kötü durumda bu karmaşıklığa sahip olur.

@@ -1,0 +1,12 @@
+Dizi elemanları sırasıyla aşağıdaki gibi eklensin:
+
+Kök düğüm: 7
+7'nin sağına 5 eklensin.
+5'in soluna 1 eklensin.
+7'nin sağına 8 eklensin.
+8'in soluna 3 eklensin.
+3'ün sağına 6 eklensin.
+1'in soluna 0 eklensin.
+8'in sağına 9 eklensin.
+9'un soluna 4 eklensin.
+4'ün sağına 2 eklensin.

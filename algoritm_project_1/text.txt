@@ -1,0 +1,25 @@
+Proje 1:
+Verilen dizi: [22, 27, 16, 2, 18, 6]
+Sıralama türü: Insertion Sort
+
+Aşamalar:
+1. [22, 27, 16, 2, 18, 6] (Başlangıç)
+2. [22, 27, 16, 2, 18, 6] (2'yi doğru pozisyona yerleştir)
+3. [16, 22, 27, 2, 18, 6] (2'nin doğru pozisyona yerleştirilmesi)
+4. [2, 16, 22, 27, 18, 6] (18'in doğru pozisyona yerleştirilmesi)
+5. [2, 6, 16, 18, 22, 27] (Dizi sıralandı)
+
+Big-O Gösterimi: O(n^2) - İkili arama kullanılmadığı için en kötü durumda bu karmaşıklık ortaya çıkar.
+
+Time Complexity (18 sayısı için):
+Dizi sıralandıktan sonra 18 sayısı "Best case" kapsamına girer, yani dizinin en başında olur.
+
+Proje 2:
+Verilen dizi: [7, 3, 5, 8, 2, 9, 4, 15, 6]
+Sıralama türü: Selection Sort
+
+İlk 4 adım:
+1. [7, 3, 5, 8, 2, 9, 4, 15, 6] (Başlangıç, en küçük elemanı seç ve başa yerleştir)
+2. [2, 3, 5, 8, 7, 9, 4, 15, 6] (2 en küçük olduğu için yer değiştirildi)
+3. [2, 3, 4, 8, 7, 9, 5, 15, 6] (4 en küçük olduğu için yer değiştirildi)
+4. [2, 3, 4, 5, 7, 9, 8, 15, 6] (5 en küçük olduğu için yer değiştirildi)
